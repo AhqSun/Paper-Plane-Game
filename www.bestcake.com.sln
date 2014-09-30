@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "www.bestcake.com", "Aircraft\www.bestcake.com.csproj", "{514E6A26-08C2-47F5-8260-35DCE582CAD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{514E6A26-08C2-47F5-8260-35DCE582CAD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{514E6A26-08C2-47F5-8260-35DCE582CAD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{514E6A26-08C2-47F5-8260-35DCE582CAD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{514E6A26-08C2-47F5-8260-35DCE582CAD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

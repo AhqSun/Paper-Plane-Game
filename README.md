@@ -1,5 +1,5 @@
-Paper-Plane-Game
+html5 纸飞机游戏
 ================
 
-Paper Airplane Game 
- PIXI.js based html5 Game
+基于PIXI.JS引擎的html5小游戏。
+左箭头使飞机向左，右箭头向右转动，碰到障碍物游戏结束。
